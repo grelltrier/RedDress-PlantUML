@@ -104,7 +104,7 @@ skinparam backgroundColor 777
 
 !procedure light_style()
   backgroundColor $LIGHTBG
-  borderColor $LIGHTBORDERCOLOR
+  borderColor $ACCENTDARK
 !endprocedure
 
 !procedure accent_style()
@@ -141,7 +141,7 @@ skinparam class {
 
 skinparam ActivityBarColor $ACCENTDARK
 skinparam activityDiamondBackgroundColor $BOXBG
-skinparam activityDiamondBorderColor $BORDERCOLOR
+skinparam activityDiamondBorderColor $ACCENTDARK
 
 ' Sequence diagrams
 
