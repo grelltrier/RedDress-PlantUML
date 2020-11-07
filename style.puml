@@ -99,7 +99,7 @@ skinparam backgroundColor 777
 
 !procedure basic_style()
   backgroundColor $BOXBG
-  borderColor $BORDERCOLOR
+  borderColor $ACCENTDARK
 !endprocedure
 
 !procedure light_style()
