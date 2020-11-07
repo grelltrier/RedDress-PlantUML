@@ -139,7 +139,7 @@ skinparam class {
 
 ' Activity diagrams
 
-skinparam ActivityBarColor $ACCENT
+skinparam ActivityBarColor blue
 
 ' Sequence diagrams
 
