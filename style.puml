@@ -100,8 +100,6 @@ skinparam backgroundColor 777
 !procedure basic_style()
   backgroundColor $BOXBG
   borderColor $BORDERCOLOR
-  activityDiamondBackgroundColor $BOXBG
-  activityDiamondBorderColor $BORDERCOLOR
 !endprocedure
 
 !procedure light_style()
@@ -142,6 +140,8 @@ skinparam class {
 ' Activity diagrams
 
 skinparam ActivityBarColor $ACCENTDARK
+skinparam activityDiamondBackgroundColor $BOXBG
+skinparam activityDiamondBorderColor $BORDERCOLOR
 
 ' Sequence diagrams
 
