@@ -137,6 +137,10 @@ skinparam class {
   attributeIconSize $FONTSIZE
 }
 
+' Activity diagrams
+
+skinparam ActivityBarColor red
+
 ' Sequence diagrams
 
 skinparam actor {
