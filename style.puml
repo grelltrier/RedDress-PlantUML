@@ -23,6 +23,13 @@ skinparam stereotypeCBackgroundColor $ACCENTDARK
 !define LIGHTSTYLE
 !endif
 
+!ifdef TRIER
+!$ACCENT = "#115E67"
+!$ACCENTDARK = "#115E67"
+skinparam stereotypeCBackgroundColor $ACCENTDARK
+!define LIGHTSTYLE
+!endif
+
 !ifdef DARKRED
 !$ACCENT = "880000"
 !$ACCENTDARK = "330000"
